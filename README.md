@@ -18,4 +18,4 @@ Simply run the application, and start playing the Tic Tac Toe game using the gra
 
 ## Features
 • Single-player and multiplayer modes
-• Customizable game settings
+• Customizable game settings.
